@@ -1,0 +1,43 @@
+{
+	"name": "prosic",
+	"version": "0.0.1",
+	"private": true,
+	"engines": {
+		"node": "18.12.1",
+		"npm": "8.19.2"
+	},
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"start": "node build/index.js"
+	},
+	"devDependencies": {
+
+		"@sveltejs/adapter-auto": "next",
+		"@sveltejs/adapter-netlify": "^1.0.0-next.84",
+		"@sveltejs/kit": "next",
+		"autoprefixer": "^10.4.8",
+		"dotenv": "^16.0.2",
+		"localtunnel": "^2.0.2",
+		"postcss": "^8.4.16",
+		"svelte": "^3.44.0",
+		"svelte-calendar": "^3.1.6",
+		"svelte-preprocess": "^4.10.7",
+		"tailwindcss": "^3.1.8",
+		"vite": "^3.0.4"
+	},
+	"type": "module",
+	"dependencies": {
+        
+		"@daily-co/daily-js": "^0.30.0",
+		"@sveltejs/adapter-node": "^1.0.0-next.89",
+		"firebase": "^9.9.4",
+		"firebase-admin": "^11.0.1",
+		"socket.io": "^4.5.2",
+		"socket.io-client": "^4.5.2",
+		"tone": "^14.7.77",
+		"tw-elements": "^1.0.0-alpha12",
+		"uuid": "^9.0.0"
+	}
+}
