@@ -13,9 +13,10 @@ As my final school project, I tried to solve a problem that is very comum in giv
 <br>
 
 # Goals 🏆
-[ x ] Teacher and student can make video call in a private room
-[ x ] Tools work
-[ x ] Could follow the design as authentic as possible
+[ x ] Teacher and student can make video call in a private room <br>
+[ x ] Tools work <br>
+[ x ] Could follow the design as authentic as possible <br>
+[ x ] Teacher can use the material on site to give classes
 
 <br>
 
