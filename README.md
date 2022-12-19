@@ -5,6 +5,7 @@
 As my final school project, I tried to solve a problem that is very comum in giving music classes online - Working without the instant feedback and talk that the teacher have in presential - so as solution this website have many manners to deal with this problem online
 
 <br>
+
 # Challenges 🐢
 - Make the website from design to real time communication
 - Making a project this big alone
